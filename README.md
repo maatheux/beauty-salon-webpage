@@ -4,4 +4,4 @@ Projeto onde foi desenvolvido uma webpage de um salão de beleza fictício. Essa
 
 Nesse projeto foi utilizado HTML, CSS e JavaScript Vanilla. [Swiper](https://swiperjs.com) e  [Scroll Reveal](https://scrollrevealjs.org) foram as libs externas utilizadas no projeto.
 
-[Link do projeto](https://maatheux.github.io/Origin-Six/index.html)
+[Link do projeto](https://maatheux.github.io/beauty-salon-webpage/index.html)
