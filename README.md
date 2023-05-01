@@ -1,7 +1,7 @@
-# Origin-Six
+# Beauty Salon Web Page Project
 
-Projeto criado no evento da Rocketseat, o NLW Together. Criamos uma webpage responsiva e mobile first.
+Projeto onde foi desenvolvido uma webpage de um salão de beleza fictício. Essa webpage é responsiva e foi desenvolvida utilizando o conceito de Mobile First.
 
-Nesse projeto criamos uma webpage de um salão de beleza fictício, utilizando HTML, CSS e JavaScript
+Nesse projeto foi utilizado HTML, CSS e JavaScript Vanilla. [Swiper](https://swiperjs.com) e  [Scroll Reveal](https://scrollrevealjs.org) foram as libs externas utilizadas no projeto.
 
 [Link do projeto](https://maatheux.github.io/Origin-Six/index.html)

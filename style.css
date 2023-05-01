@@ -384,6 +384,7 @@ nav.show .icon-close {
 #testimonials .container {
     margin-left: 0;
     margin-right: 0;
+    overflow-x: hidden;
 }
 
 #testimonials blockquote {
